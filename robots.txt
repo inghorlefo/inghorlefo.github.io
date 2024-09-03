@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inghorlefo.github.io/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/app/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/assets/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/css/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/includes/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/item/sitemap.html.gz
+Sitemap: https://inghorlefo.github.io/src/sitemap.html.gz
